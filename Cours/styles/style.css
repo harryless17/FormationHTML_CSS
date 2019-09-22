@@ -1,0 +1,25 @@
+
+.div1{
+  background-color:rgb(221, 139, 0);
+  text-align: center;
+}
+.p1{
+  color: rgb(214, 190, 20);
+  font-family: arial;
+  font-size: 2em;
+  text-align: center;
+}
+.p2{
+  color: rgb(88, 128, 249);
+  text-align: center;
+  font-size: 2em;
+}
+.p2:hover{
+  font-size: 50px;
+}
+img{
+  width: 200px;
+}
+img:hover{
+  width: 400;
+}

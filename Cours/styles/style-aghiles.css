@@ -1,0 +1,33 @@
+.nom{
+  text-align: center;
+  margin-top: 50px;;
+}
+
+header{
+  background-color: rgba(0, 0, 0, 0.2);
+  height: 30px;
+  position: fixed;
+  width: 100%;
+  top:0px;
+}
+
+.contact img{
+  width:30px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.presentation{
+  text-align: center;
+}
+.presentation img{
+  width: 150px;
+  border: 10px solid;
+  padding: 5px;
+}
+.presentation img:hover{
+  width: 250px;
+}
+*{
+  font-family:arial;
+}
